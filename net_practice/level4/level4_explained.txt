@@ -1,0 +1,1 @@
+- Same subnet mask everywhere and then having addresses with 0 1 1 1 in the subnet

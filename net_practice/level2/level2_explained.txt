@@ -1,0 +1,5 @@
+- Most of the time the first three octets are for the network address
+- Between A and B, a subnetwork of 30 hosts addresses is defined (2^5 - 2): extreme values (full of 0 or 1 are removed)
+- Between C and D, reserved address was assigned (127.0.0.1 is the local host)
+- Subnetwork mask: sepate the network in subnetwork, bits are set to 1 from the left to the right 
+The last bit set to one differentiate the sepated subnetworks (0 or 1), then the rest of the bits set to 0 in the subnetwork mask differentiate the different hosts on the two subnetworks.

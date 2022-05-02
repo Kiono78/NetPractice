@@ -1,0 +1,2 @@
+- On the same network, all the same masks
+- One has as a subnetwork mask, therefore other hosts must be on the same one (128 nit = 0)
