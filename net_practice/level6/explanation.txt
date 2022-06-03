@@ -1,0 +1,3 @@
+- Routers et les hôtes génèrent des tables de routage. Le démon actualise avec tout les routes connues.
+- Il y a toujours une route par défaut
+- La route la plus spécifique est sélectionné
